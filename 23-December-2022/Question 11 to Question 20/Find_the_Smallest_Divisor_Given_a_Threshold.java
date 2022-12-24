@@ -1,3 +1,5 @@
+//same as koko eating banana
+
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int max=-1;
